@@ -1,4 +1,4 @@
-# revised_MVVM_Android
+# MVVM Template
 MVVM Android template
 - Android-Kotlin
 - AndroidX (jetpack)
@@ -8,4 +8,3 @@ MVVM Android template
 - Retrofit
 - Glide
 - Timber
-# New_MVVM_Template
